@@ -95,7 +95,7 @@
 
 <br>
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b6bbc8f24f2540481122d5?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b6bbc8f24f2540481122d5?variant=dark)](https://roadmap.sh)
 </div>
 
 ###
