@@ -83,8 +83,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastian-411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 <br>
+
+
+<br>
   <img src="https://streak-stats.demolab.com?user=Sebastian-411&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 
+
+<br>
+
+<br>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64b6bbc8f24f2540481122d5?variant=dark)](https://roadmap.sh)
 </div>
 
 ###
@@ -104,7 +113,4 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Sebastian-411/Sebastian-411/output/snake.svg" alt="Snake animation" />
-
-###
 
