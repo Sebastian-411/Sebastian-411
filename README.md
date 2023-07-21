@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm Juan Sebastian Diaz <br><br>- 🔭 I’m working as Programming Assistant Professor and a Research Assistant. <br>- 📚 I'm currently pursuing my undergraduate degree in Software Engineering at Icesi University<br>📫 If you want to contact me, you can do it through <a href="https://www.linkedin.com/in/sebastian-diaz-sanchez/">linkendin</a> or send me an email to sg5043161@gmail.com. </p>
+<p align="left">I'm Juan Sebastian Diaz <br><br>- 🔭 I’m working as Programming Assistant Professor and a Research Assistant. <br>- 📚 I'm currently pursuing my undergraduate degree in Software Engineering at Icesi College<br>📫 If you want to contact me, you can do it through <a href="https://www.linkedin.com/in/sebastian-diaz-sanchez/">linkedin</a> or send me an email to sg5043161@gmail.com. </p>
 
 ###
 
