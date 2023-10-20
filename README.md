@@ -17,8 +17,9 @@
 
 ###
 
-<h1 align="center">This profile is being restructured! </h1>
-<h1 align="center">Don't worry if you don't see any projects. We are starting a new phase</h1>
+<h2>Note:</h2>
+This profile is being restructured!
+Don't worry if you don't see any projects. We are starting a new phase
 
 
 
