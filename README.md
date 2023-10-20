@@ -18,6 +18,7 @@
 ###
 
 <h2>Note:</h2>
+
 This profile is being restructured!
 Don't worry if you don't see any projects. We are starting a new phase
 
