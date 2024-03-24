@@ -65,34 +65,7 @@
 
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebastian-411&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastian-411&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
-<br>
-
-
-<br>
-  <img src="https://streak-stats.demolab.com?user=Sebastian-411&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-
-<br>
-
-<br>
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b6bbc8f24f2540481122d5?variant=dark)](https://roadmap.sh)
-</div>
-
-###
-
-###
 
 ### 👀Social media:
 
