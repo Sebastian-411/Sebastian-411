@@ -1,6 +1,6 @@
 <h1 align="center">Hello World!👋</h1>
 <div align="center">
- <img src="https://visitor-badge.laobi.icu/badge?page_id=Sebastian-411.Sebastian-411"  />
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=Sebastian-411"  />
 </div>
 
 ###
