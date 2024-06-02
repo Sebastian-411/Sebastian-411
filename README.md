@@ -80,4 +80,14 @@
 
 <br><br><br><br><br><br>
 
+## GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sebastian-411&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sebastian-411&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
+
+
 
