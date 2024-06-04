@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="800" src="https://github.com/Sebastian-411/Sebastian-411/blob/master/banneri.png?raw=true"  />
+  <img src="https://github.com/Sebastian-411/Sebastian-411/blob/master/banneri.png?raw=true"  />
 </div>
 
 ###
