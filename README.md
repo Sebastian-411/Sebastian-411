@@ -62,7 +62,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sebastian-411/Sebastian-411/output/snake.svg" alt="Snake animation" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jpaddeo/jpaddeo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ###
 
