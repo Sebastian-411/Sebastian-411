@@ -2,9 +2,9 @@ name: Publish new version
 
 on:
   workflow_dispatch:
-    
+
   schedule:
-    - cron: "8 * * * *" 
+    - cron: "*/10 * * * *"
 
   repository_dispatch:
     types:
@@ -15,11 +15,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - run: |
-        date +%s > lastUpdate
-        git config user.name Sebastian-411
-        git config user.email sg5043161@gmail.com
-        git add lastUpdate
-        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update with latest"
-        git push origin master
+      - uses: actions/checkout@v2
+      - run: |
+          date +%s > lastUpdate
+          git config user.name Sebastian-411
+          git config user.email sg5043161@gmail.com
+          git add lastUpdate
+          git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update with latest"
+          git push origin master
