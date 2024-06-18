@@ -56,7 +56,7 @@
 ###
 
 <div align="center" >
-  <img src="https://github-profile-trophy.vercel.app?username=Sebastian-411&theme=discord&column=3&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" alt="trophy graph"  /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Sebastian-411&theme=discord&column=4&row=10&margin-w=8&margin-h=8&no-frame=true" alt="trophy graph"  /> 
   <br><br>
     <img   src="https://github-readme-activity-graph.vercel.app/graph?username=Sebastian-411&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph"  />
 </div>
@@ -67,17 +67,5 @@
   <img src="https://raw.githubusercontent.com/sebastian-411/sebastian-411/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation" />
   <img src="https://raw.githubusercontent.com/sebastian-411/sebastian-411/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation" />
 </p>
-
-###
-
-<img align="right" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0MGhqaDVqZzZjcWhqbWRiNnRnMW9kMjhxcW5kZ21sNWx3cWh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.webp"  />
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/oqiprv4ppenqbudbc56jaidog">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=oqiprv4ppenqbudbc56jaidog&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
