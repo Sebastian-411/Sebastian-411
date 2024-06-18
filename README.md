@@ -62,10 +62,10 @@
 </div>
 
 ###
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/sebastian-411/sebastian-411/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/sebastian-411/sebastian-411/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<div align="center" >
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/sebastian-411/sebastian-411/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/sebastian-411/sebastian-411/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+</div>
 ###
 
 <img align="right" height="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGc0MGhqaDVqZzZjcWhqbWRiNnRnMW9kMjhxcW5kZ21sNWx3cWh6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.webp"  />
