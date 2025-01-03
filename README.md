@@ -59,11 +59,6 @@
 
 ###
 
-<div align="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=Sebastian-411&theme=discord&column=4&row=10&margin-w=8&margin-h=8&no-frame=true" alt="trophy graph"  /> 
-  <br><br>
-    <img   src="https://github-readme-activity-graph.vercel.app/graph?username=Sebastian-411&radius=16&theme=github-dark&area=true&order=5&custom_title=MY%20ACTIVITY!%20%F0%9F%A7%8F&hide_border=false" alt="activity-graph graph"  />
-</div>
 
 ###
 
